@@ -1,0 +1,10 @@
+Create Flow:
+
+start SpecCreateFlow specState: { id: "1234", owner: "O=Enterprise1,L=London,C=GB", members: ["O=Enterprise2,L=New York,C=US","O=Enterprise1,L=London,C=GB"], data: "diolsdd" }
+
+start SpecUpdateFlow specState: { id: "1234", owner: "O=Enterprise1,L=London,C=GB", members: ["O=Enterprise2,L=New York,C=US","O=Enterprise1,L=London,C=GB"], data: "oloi" }
+
+//start SpecCreateFlow specState: { owner: "O=Enterprise1,L=London,C=GB", counterParty: "O=Enterprise2,L=New York,C=US", data: "diolsdd" }
+
+Vault Query:
+run vaultQuery contractStateType: com.template.states.SpecState

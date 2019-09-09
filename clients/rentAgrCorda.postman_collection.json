@@ -1,0 +1,122 @@
+{
+	"info": {
+		"_postman_id": "80b303df-07de-40d3-8da0-c50b2f6b61fe",
+		"name": "Rent Agr Corda",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Rent Agr",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n\t\"id\":\"12345\",\n\t\"owner\":{\"o\":\"Enterprise1\",\"l\":\"London\",\"c\":\"GB\"},\n\t\"members\": [{\"o\":\"Enterprise2\",\"l\":\"New York\",\"c\":\"US\"},{\"o\":\"Enterprise1\",\"l\":\"London\",\"c\":\"GB\"}],\n\t\"data\":\"Project it is\",\n\t\"projectDeadline\":\"dalne\",\n\t\"legalDocLink\":\"linkaa\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:10050/rentAgr",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10050",
+					"path": [
+						"rentAgr"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Rent Agr",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"id\": \"12345\",\n        \"owner\": {\n            \"o\": \"Enterprise1\",\n            \"l\": \"London\",\n            \"c\": \"GB\"\n        },\n        \"members\": [{\"o\":\"Enterprise2\",\"l\":\"New York\",\"c\":\"US\"},{\"o\":\"Enterprise1\",\"l\":\"London\",\"c\":\"GB\"}],\n        \"data\": \"Project it is 222\",\n        \"projectDeadline\": \"dalne\",\n        \"legalDocLink\": \"linkaa\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:10050/rentAgr",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10050",
+					"path": [
+						"rentAgr"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all Rent Agr",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:10050/rentAgr",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10050",
+					"path": [
+						"rentAgr"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Rent Agr history by Id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:10050/rentAgr/history?id=12345",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "10050",
+					"path": [
+						"rentAgr",
+						"history"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "12345"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
