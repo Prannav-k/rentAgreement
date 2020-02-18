@@ -17,7 +17,7 @@ data class RentAgrState(
         val owner:Party,
         val members:MutableList<Party>,
         val data: String="",
-        val projectDeadline:String="",
+        val agreementExpiryDate:String="",
         val legalDocLink:String="",
         override val participants: List<Party> = members,
         override val linearId: UniqueIdentifier= UniqueIdentifier(id, UUID.randomUUID())

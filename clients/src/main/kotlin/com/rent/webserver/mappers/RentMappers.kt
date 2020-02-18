@@ -16,7 +16,7 @@ class RentMappers{
             val owner: Party,
             val members:List<Party>,
             val data: String="",
-            val projectDeadline:String="",
+            val agreementExpiryDate:String="",
             val legalDocLink:String="",*/
 
             return RentAgrState(
@@ -24,7 +24,7 @@ class RentMappers{
                  owner = owner,
                  members = members,
                  data = rentAgrData.data,
-                 projectDeadline = rentAgrData.projectDeadline,
+                 agreementExpiryDate = rentAgrData.projectDeadline,
                  legalDocLink = rentAgrData.legalDocLink
                  )
 
@@ -41,7 +41,7 @@ class RentMappers{
                     owner = Helper.getPeerFromParty(ss.owner)!!,
                     members = Helper.getPeerListFromParty(ss.members)!!,
                     data = ss.data,
-                    projectDeadline = ss.projectDeadline,
+                    projectDeadline = ss.agreementExpiryDate,
                     legalDocLink = ss.legalDocLink
 
             )

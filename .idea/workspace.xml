@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/corda/corda/samples/irs-demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/digi-prjcts/containerTest/remittance-production/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/digi-prjcts/remittance-production/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/InstaBotQuery/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/eAg/eaga-cordapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/eAg/spring-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/rent-cordapp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/serviceTrigger" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pPjcts/sprngInitlr/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pTest/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pTest/eaga-webserver-bcup/eaga-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pTest/eaga-webserver-bcup/server" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pTest/okta-java-jwt-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pwrk/ktest" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/pwrk/testRem/remittance-production/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/MembershipCordapp/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/corda-procurement/cordapp-procurement" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/doorman/spring-networkMap" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/fed-prod-v1.0.1/remittance-production/TestPrograms/KOTLINSSLTest/kotlinServerSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/fed_prod_v1/remittance-production/TestPrograms/KOTLINSSLTest/kotlinServerSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/fedcoin-server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/frameowrk-spring/digiledge-spring-template" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/gdle" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/inittlzr/test" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/invoice-production/cordapp-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/invoice-production/party-provisioning-consumer" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/invoice-production/spring-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/invoice2/invoice" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/lc (2)" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/lc2/lc" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/lc_t/event-producer" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/mem4.0 madhu/membership-app/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/mem4.0 madhu/membership-app/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/membership/membershipAbs" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/nw doorman/doorman/spring-networkMap" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/other programs/remEventListPost" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/other programs/remEventRetryList" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2p/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/akash/proc2pay/Proc2Pay_Server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/aksh/proc2pay/Proc2Pay_Server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/akshe/proc2pay/Proc2Pay_Server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/proc2pay/p2pWhole" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/proc2pay/p2pWholeNew" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/synd-prod/proc2pay/p2pWholeNew" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/testUat3 (copy)/proc2pay/p2pWholeNew" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/p2pW/testUat3/proc2pay/p2pWholeNew" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remFrsh/rpcRecnt/remittance-production/RemEnquiry" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remFrsh/rpcRecnt/remittance-production/TestPrograms/KOTLINSSLTest/clientssl" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remFrsh/rpcRecnt/remittance-production/TestPrograms/KOTLINSSLTest/kotlinCLIENTSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remFrsh/rpcRecnt/remittance-production/TestPrograms/KOTLINSSLTest/kotlinServerSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remMailSpring/remMail" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remittance-production/TestPrograms/KOTLINSSLTest/clientssl" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remittance-production/TestPrograms/KOTLINSSLTest/kotlinCLIENTSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remittance-production/TestPrograms/KOTLINSSLTest/kotlinServerSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remittance-production/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remwithoutslock/remittance-production/TestPrograms/KOTLINSSLTest/clientssl" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remwithoutslock/remittance-production/TestPrograms/KOTLINSSLTest/kotlinServerSSL" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/remwithoutslock/remittance-production/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/framework/framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/kotred" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/memCentralized" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/multinodeRem/dman2/doorman/spring-networkMap" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/multinodeRem/nwDoorman/doorman/spring-networkMap" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/osCOrdaTesting/master/remittance-production/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/p2p-server/proc2pay/Proc2Pay_Server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/proc2payLatest/proc2pay/Proc2Pay_Server" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/ps" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/querytest/remittance-production/cordapp-webserver" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/rem master/remittance-production/cordapp-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/test" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/testValidation" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/testWholeMem/membership-app/MembershipWhole" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/twoWayRemTest/custtest/client" value="PREVIEW" />
+        <entry key="$USER_HOME$/digi-projects/test/twoWayRemTest/custtest/server" value="PREVIEW" />
+        <entry key="$USER_HOME$/pwRK/rentAgreement" value="PREVIEW" />
+        <entry key="$USER_HOME$/pwRK/rnt2/rentAgreement" value="PREVIEW" />
+        <entry key="$USER_HOME$/pwRK/vachain/vachain/cordapp-template-kotlin" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
